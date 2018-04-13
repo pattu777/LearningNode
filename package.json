@@ -1,0 +1,15 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "Node school tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chinmaya",
+  "license": "MIT",
+  "dependencies": {
+    "bl": "^1.2.2",
+    "node": "^9.11.0"
+  }
+}
