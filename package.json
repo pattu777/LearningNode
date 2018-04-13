@@ -10,6 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "bl": "^1.2.2",
-    "node": "^9.11.0"
+    "moment": "^2.22.0",
+    "node": "^9.11.0",
+    "through2-map": "^3.0.0"
   }
 }
